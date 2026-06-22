@@ -38,7 +38,7 @@ export function Header() {
         <div className="flex justify-between items-center">
           {/* Logo */}
           <Link href="#home" className="flex items-center gap-3 group">
-  <div className="relative w-16 h-16 transition-smooth group-hover:scale-105">
+  <div className="relative w-24 h-20 transition-smooth group-hover:scale-105">
     <Image
       src="/logo.png"
       alt="Prabhat Associates"

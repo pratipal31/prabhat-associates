@@ -23,7 +23,7 @@ export function Industries() {
 
         {/* Section Header */}
         <div className="text-center mb-14">
-          <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4">Clients We Serve</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4 ">Clients We Serve</h2>
         </div>
 
         {/* Two column layout: logos left, text right */}

@@ -38,10 +38,7 @@ export function ContactFooter() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           {/* Section Header */}
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Get in Touch</h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Ready to transform your business? Let&apos;s discuss how Prabhat Associates can help you achieve your strategic objectives.
-            </p>
+            <h2 className="text-3xl md:text-5xl font-bold text-primary mb-6">Get in Touch</h2>
           </div>
 
           {/* Contact Content */}
@@ -61,10 +58,10 @@ export function ContactFooter() {
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">Email</h4>
                     <a
-                      href="mailto:info@prabhatassociates.in"
+                      href="mailto:prabhatassociatesmumbai@gmail.com"
                       className="text-primary hover:text-accent transition-smooth"
                     >
-                      info@prabhatassociates.in
+                     prabhatassociatesmumbai@gmail.com
                     </a>
                   </div>
                 </div>
@@ -74,7 +71,7 @@ export function ContactFooter() {
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">Phone</h4>
                     <a href="tel:+919876543210" className="text-primary hover:text-accent transition-smooth">
-                      +91 98765 43210
+                      +91 9833907383
                     </a>
                   </div>
                 </div>
@@ -85,7 +82,8 @@ export function ContactFooter() {
                     <h4 className="font-semibold text-gray-900 mb-1">Office Address</h4>
                     <p className="text-gray-600">
                       Prabhat Associates<br />
-                      New Delhi, India<br />
+                      603/604 Shraddha Mistry Complex  <br />
+                      JB Nagar Andheri East Mumbai 400059<br />
                       {/* Add specific address details from company info */}
                     </p>
                   </div>
@@ -221,7 +219,7 @@ export function ContactFooter() {
             {/* Brand */}
             <div>
               <div className="flex items-center gap-2 mb-4">
-                <div className="relative w-10 h-10">
+                <div className="relative w-24 h-14">
                   <Image
                     src="/logo.png"
                     alt="Prabhat Associates"
@@ -272,22 +270,22 @@ export function ContactFooter() {
               <ul className="space-y-2 text-sm text-gray-400">
                 <li>
                   <a href="#services" className="hover:text-white transition-smooth">
-                    Strategic Planning
+                    Electrical Contracting
                   </a>
                 </li>
                 <li>
                   <a href="#services" className="hover:text-white transition-smooth">
-                    Market Analysis
+                   Electrical Material Supply
                   </a>
                 </li>
                 <li>
                   <a href="#services" className="hover:text-white transition-smooth">
-                    Digital Transformation
+                    Interior Fit-Out Solutions'
                   </a>
                 </li>
                 <li>
                   <a href="#services" className="hover:text-white transition-smooth">
-                    Consulting
+                    Warehouse Interior Works
                   </a>
                 </li>
               </ul>
@@ -298,16 +296,16 @@ export function ContactFooter() {
               <h4 className="font-semibold mb-4">Contact</h4>
               <ul className="space-y-2 text-sm text-gray-400">
                 <li>
-                  <a href="mailto:info@prabhatassociates.in" className="hover:text-white transition-smooth">
-                    info@prabhatassociates.in
+                  <a href="mailto:prabhatassociatesmumbai@gmail.com" className="hover:text-white transition-smooth">
+                    prabhatassociatesmumbai@gmail.com
                   </a>
                 </li>
                 <li>
                   <a href="tel:+919876543210" className="hover:text-white transition-smooth">
-                    +91 98765 43210
+                    +91 9833907383
                   </a>
                 </li>
-                <li>New Delhi, India</li>
+                <li>JB Nagar Andheri East Mumbai 400059</li>
               </ul>
             </div>
           </div>
