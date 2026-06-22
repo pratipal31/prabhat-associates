@@ -40,7 +40,7 @@ export function Header() {
           <Link href="#home" className="flex items-center gap-3 group">
   <div className="relative w-16 h-16 transition-smooth group-hover:scale-105">
     <Image
-      src="/logo.jpeg"
+      src="/logo.png"
       alt="Prabhat Associates"
       fill
       className="object-contain"
