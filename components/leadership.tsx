@@ -14,7 +14,7 @@ const leaders = [
     name: 'Shashidhar Sujit Ojha',
     title: 'Proprietor',
     bio: 'Strategic overseer ensuring operational excellence and client satisfaction. Brings deep expertise in building sustainable business models and long-term client relationships.',
-    image: null,
+    image: '/sumit.jpeg',
   },
   {
     name: 'Vaibhav Sujit Ojha',
